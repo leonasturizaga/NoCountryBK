@@ -1,0 +1,120 @@
+To clone a specific branch from a shared repository using Git Bash
+cd path/to/your/directory
+
+Clone the Repository with a Specific Branch:
+git clone -b branch-name repository-url
+For example, if you want to clone a branch named "feature-branch" from a repository with the URL "https://github.com/example/repo.git," the command would look like this:
+
+git clone -b feature-branch https://github.com/example/repo.git
+
+Navigate into the Cloned Repository:
+Change into the directory created by the clone operation.
+
+cd repo
+Now, you have successfully cloned a specific branch from the shared repository. You can work on the code in the cloned branch on your local machine. If you need to switch to a different branch, you can use the git checkout command:
+
+git checkout other-branch-name
+Replace other-branch-name with the name of the branch you want to switch to.
+
+Keep in mind that you can also use the git branch -a command to list all branches (local and remote) in the cloned repository, and then switch between them as needed.
+
+--------------------------
+
+Create a New Branch:
+Create a new branch locally using the following commands:
+
+git checkout -b new-branch-name
+
+
+
+alan rios 
+ruteo, token de autenticacion con javascript con java.
+
+kevin noviello, 
+home, libreria para carrusell en 3d. cards datos basicos.
+pide inputs de productos para pasarlos en las cards. le pedira a Lucas Von Elm.
+Modales se hacen en bootstrap.
+ejemplo: https://sweetalert2.github.io/
+
+Diego herrera prado
+Yo por ahora estoy haciendo la página del carrito de compras. .Yo creo lo termino hoy, le hice alguna modificación al diseño de figma porque por ahí había que hacer unos ajustes.
+
+
+juan pablo
+el deploy se hara desde Render. en 
+
+Lucas von elm
+se junta con kevin para ver que necesita de productos.
+
+
+
+
+
+***** se puede hacer funcionar el home y login en esta pagina.
+https://randomuser.me/
+Random User Generator | Home
+Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It's like Lorem Ipsum, for people.
+
+Mike provolone, 
+esta trabajando con los testeos y QA desde la info en figma.
+
+-----------------------
+Luis y Lucas carrito de compras
+
+---------------------------
+alan 
+
+
+diego persi
+casos de prueba, registro usuario, inicio sesion  terminando.
+diseño de casos de prueba de las homepage.
+*** documentacion para pruebas: colocar carpeta en drive, y se puede compartir la url en las tarjetas.
+
+federico blanco
+pendiente perfil de usuario, hacerlo responsive.
+
+Alan Rios11:20 AM
+Actividades: Estuve haciendo el tema del Router para la navegación de las paginas, hare el tema de Maquetar el Perfil de Usuario y sumarme otra tarea si es necesario. Con respecto a lo que dijo Kevin tambien quiero sumar que nosotros no contamos con Diseñador UI/UX por eso le dimos prioridad mas que nada el tema de mostrar las paginas y después mejorar el diseño mas la integración con el back.
+
+diego herrera
+termino home admin, carrito de compras. producto
+
+juan pablo godoy
+centralizar la configuracion para conexion de apis para front end.
+terminara de armar el deploy, dar permisos para urls desde frontend. para usarlo como una especie de libreria.
+hara autenticaciones de redes sociales, para acceder con redes sociales.
+
+kevin noviello
+termino componente del home del usuario, responsivo.
+terminara los modals de las cards.
+
+leon
+configuracion transacciones.
+queries para transacciones
+
+lucas
+crud de productos
+carrito de compras con Luis.
+
+mariana Rausch
+agregar productos, modificar productos.
+
+
+
+ver si se puede agregar swager con la documentacion del proyecto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

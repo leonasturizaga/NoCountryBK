@@ -1,1 +1,18 @@
 NoConuntry backup repository
+
+proyecto: ShopSwiftly
+
+front:
+https://c15-23-m-java-react.vercel.app/
+
+
+docker para windows
+instalar subsistema linux para windows, 
+
+api en swager
+
+
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+
+git checkout -b new-branch-name
