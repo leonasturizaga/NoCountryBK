@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+a105bfad4ed55ce2bf55f31b3d48b6812b47cc42 refs/remotes/origin/devBack
+028b84ce93c021b000b495a497c543ad0ad27493 refs/remotes/origin/devFront
+4821cd5f8d1f78685cd64043b865296ee2991da7 refs/remotes/origin/feature/app-login
+5cc5cb335234451976889680cc492d95482128a3 refs/remotes/origin/feature/register
+2397721f666b18e0e5c56bf4c0523381b572bd27 refs/remotes/origin/feature/validation
+b09fc8e950a52f725f9db224bee9e68007d917a8 refs/remotes/origin/lucenstuff
+006b67e79f28b9f6a83b8e9d693703dd1298aad1 refs/remotes/origin/main
+a795df71f18131431c9197175cdfac72f06920cf refs/remotes/origin/merge
+020efa921800a79328e3a88e71ce7b1dc70eed4e refs/remotes/origin/rafael's
