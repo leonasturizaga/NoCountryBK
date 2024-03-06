@@ -1,0 +1,7 @@
+default branch "master" changed to "main" in git master container.
+
+
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a

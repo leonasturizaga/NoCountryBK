@@ -1,0 +1,19 @@
+GIT basic commands:
+
+$ git status
+$ git add .
+$ git status
+$ git commit -m "11"
+$ git push https://github.com/leonasturizaga/publicoHenryPy.git master
+
+-------- delete white arrow from link/nested git repository ------
+delete .git folder from hidden folder.
+takeout hide check mark add read only from folder (right click/properties)
+$ git rm --cache "client_folder"
+$ git rm --cache Python-Prep
+$ git status
+$ git add .
+$ git status
+$ git commit -m "11"
+$ git push https://github.com/leonasturizaga/publicoHenryPy.git master
+
